@@ -1,0 +1,15 @@
+{
+  "name": "gpio_blink_project",
+  "version": "1.0.0",
+  "description": "Arduino Uno R3 (ATmega328P)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wokwi-cli": "github:wokwi/wokwi-cli"
+  }
+}

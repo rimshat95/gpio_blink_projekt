@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\gpio_blink_project",
+            "binaryPath": "c:\\gpio_blink_project\\main.elf",
+            "binaryArgs": []
+        }
+    ]
+}
